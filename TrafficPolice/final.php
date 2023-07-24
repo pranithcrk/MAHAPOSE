@@ -50,9 +50,9 @@
 		<!--header-start-->
 		<div class="container">
 			<figure class="logo animated fadeInDown delay-07s">
-				<a href="#"><img src="img/policelogo.png" alt=""></a>
+				<a href="#"><img src="img/mahapose.png" alt=""></a>
 			</figure>
-			<h2 style="color: white;"><b>HARYANA  POLICE</b></h2>
+			<h2 style="color: white;"><b>MAHARASHTRA  POLICE</b></h2>
 			<div class="container mt-5 mb-5">
   	     <div class="card">
   	     	<div class="card-header bg-success">
@@ -62,7 +62,7 @@
   	     		<div class="row">
   	     			<div class="col-md-4">
   	     			    <div class="card bg-info">
-  	     					<div class="card-header"><h3>Violetor Details</h3></div>
+  	     					<div class="card-header"><h3>Violator Details</h3></div>
   	     					<?php
                             if (isset($_SESSION['uid'])) {
                             	$uid=$_SESSION['uid'];
@@ -152,7 +152,7 @@
 	<section class="business-talking">
 		<!--business-talking-start-->
 		<div class="container">
-			<h2>Don't Drink And Drive</h2>
+			<h2>Law treats everyone equally</h2>
 		</div>
 	</section>
 	<!--business-talking-end-->
@@ -163,7 +163,7 @@
 				<div class="col-lg-6 col-sm-7 wow fadeInLeft">
 					<div class="contact-info-box address clearfix">
 						<h3><i class=" icon-map-marker"></i>Address:</h3>
-						<span>Room no- 5P 704,Provident Sunworth,Kengeri,Banglore</span>
+						<span>Patang Plaza phase 6, Dhankawdi, Katraj</span>
 					</div>
 					<div class="contact-info-box phone clearfix">
 						<h3><i class="fa fa-phone"></i>Phone:</h3>
@@ -171,7 +171,7 @@
 					</div>
 					<div class="contact-info-box email clearfix">
 						<h3><i class="fa fa-pencil"></i>email:</h3>
-						<span>shubhamsindhu2712@gmail.com</span>
+						<span>patilpranit83@outlook.com</span>
 					</div>
 					<div class="contact-info-box hours clearfix">
 						<h3><i class="fa fa-clock-o"></i>Hours:</h3>
